@@ -30,9 +30,9 @@ TO DO App Using JavaScript
 
 1.  Clone the repo
 
-        ```sh
-        git clone https://github.com/evaldasp/DragNdrop.git
-        ```
+    ```sh
+      git clone https://github.com/evaldasp/DragNdrop.git
+    ```
 
     <!-- USAGE EXAMPLES -->
 
